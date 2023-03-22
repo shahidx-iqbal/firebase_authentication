@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89380386460-66b0tcmfkcvfq09tbn0b6qun8mjjog11.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89380386460-66b0tcmfkcvfq09tbn0b6qun8mjjog11</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>89380386460-n2s1lctbk6ne5mden5pj3e1j0bj77o4p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaaFb8nzqxJicSWtWCudoZRaKmFJLxAqA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89380386460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firebase.urraan</string>
+	<key>PROJECT_ID</key>
+	<string>fir-uraan-55520</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-uraan-55520.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89380386460:ios:9a1f1405f6d124b6339f59</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsLocalNetworking</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
